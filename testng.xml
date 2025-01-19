@@ -3,6 +3,8 @@
 <suite name="Selenium Automation Framework With Java">
     <test verbose="2" preserve-order="true"
           name="/Users/amitkumarjha/Desktop/WebAutomation/WebAutomationWithSelenium">
-        <classes/>
+        <classes>
+            <class name="testcases.LaunchOrangeTest"/>
+        </classes>
     </test>
 </suite>
